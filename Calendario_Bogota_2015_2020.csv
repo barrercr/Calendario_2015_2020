@@ -1,0 +1,2193 @@
+Fecha,Dia_Semana,Festivo,Dia_sin_carro,Hubo_Protesta,Es_COVID,Hay_Evento,Nombre_Evento
+01/01/2015,Jueves,SI,NO,NO,NO,SI,Año Nuevo
+02/01/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+03/01/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+04/01/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+05/01/2015,Lunes,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+06/01/2015,Martes,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+07/01/2015,Miercoles,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+08/01/2015,Jueves,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+09/01/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+10/01/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+11/01/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+12/01/2015,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+13/01/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+14/01/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+15/01/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+16/01/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+17/01/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+18/01/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+19/01/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+20/01/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+21/01/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+22/01/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+23/01/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+24/01/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+25/01/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+26/01/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+27/01/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+28/01/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+29/01/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+30/01/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+31/01/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+01/02/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+02/02/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+03/02/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+04/02/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+05/02/2015,Jueves,NO,SI,NO,NO,SI,Ciclovía Nocturna
+06/02/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+07/02/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+08/02/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+09/02/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+10/02/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+11/02/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+12/02/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+13/02/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+14/02/2015,Sábado,NO,NO,NO,NO,SI,Dia de San Valentin
+15/02/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+16/02/2015,Lunes,NO,NO,NO,NO,SI,Bogota Fashion Week
+17/02/2015,Martes,NO,NO,NO,NO,SI,Bogota Fashion Week
+18/02/2015,Miercoles,NO,NO,NO,NO,SI,Bogota Fashion Week
+19/02/2015,Jueves,NO,NO,NO,NO,SI,Bogota Fashion Week
+20/02/2015,Viernes,NO,NO,NO,NO,SI,Bogota Fashion Week
+21/02/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+22/02/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+23/02/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+24/02/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+25/02/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+26/02/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+27/02/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+28/02/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+01/03/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+02/03/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+03/03/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+04/03/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+05/03/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+06/03/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+07/03/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+08/03/2015,Domingo,NO,NO,NO,NO,SI,Dia Internacional de la Mujer
+09/03/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+10/03/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+11/03/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+12/03/2015,Jueves,NO,NO,NO,NO,SI,Estereo Picnic
+13/03/2015,Viernes,NO,NO,NO,NO,SI,Estereo Picnic
+14/03/2015,Sábado,NO,NO,NO,NO,SI,Estereo Picnic
+15/03/2015,Domingo,NO,NO,NO,NO,SI,Concierto Manu Chao
+16/03/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+17/03/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+18/03/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+19/03/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+20/03/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+21/03/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+22/03/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+23/03/2015,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+24/03/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+25/03/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+26/03/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+27/03/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+28/03/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+29/03/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+30/03/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+31/03/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+01/04/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+02/04/2015,Jueves,SI,NO,NO,NO,NO,Sin_Registro
+03/04/2015,Viernes,SI,NO,NO,NO,NO,Sin_Registro
+04/04/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+05/04/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+06/04/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+07/04/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+08/04/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+09/04/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+10/04/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+11/04/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+12/04/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+13/04/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+14/04/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+15/04/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+16/04/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+17/04/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+18/04/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+19/04/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+20/04/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+21/04/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+22/04/2015,Miercoles,NO,SI,NO,NO,SI,Feria del Libro
+23/04/2015,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+24/04/2015,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+25/04/2015,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+26/04/2015,Domingo,NO,NO,NO,NO,SI,Feria del Libro
+27/04/2015,Lunes,NO,NO,NO,NO,SI,Feria del Libro
+28/04/2015,Martes,NO,NO,NO,NO,SI,Feria del Libro
+29/04/2015,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+30/04/2015,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+01/05/2015,Viernes,SI,NO,NO,NO,SI,Feria del Libro
+02/05/2015,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+03/05/2015,Domingo,NO,NO,NO,NO,SI,Feria del Libro
+04/05/2015,Lunes,NO,NO,NO,NO,SI,Feria del Libro
+05/05/2015,Martes,NO,NO,NO,NO,SI,Feria del Libro
+06/05/2015,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+07/05/2015,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+08/05/2015,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+09/05/2015,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+10/05/2015,Domingo,NO,NO,NO,NO,SI,Dia de la Madre
+11/05/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+12/05/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+13/05/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+14/05/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+15/05/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+16/05/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+17/05/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+18/05/2015,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+19/05/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+20/05/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+21/05/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+22/05/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+23/05/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+24/05/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+25/05/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+26/05/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+27/05/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+28/05/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+29/05/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+30/05/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+31/05/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+01/06/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+02/06/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+03/06/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+04/06/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+05/06/2015,Viernes,NO,NO,NO,NO,SI,Dia del Medio Ambiente
+06/06/2015,Sábado,NO,NO,NO,NO,SI,Festival Alimentarte
+07/06/2015,Domingo,NO,NO,NO,NO,SI,Festival Alimentarte
+08/06/2015,Lunes,SI,NO,NO,NO,SI,Festival Alimentarte
+09/06/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+10/06/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+11/06/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+12/06/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+13/06/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+14/06/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+15/06/2015,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+16/06/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+17/06/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+18/06/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+19/06/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+20/06/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+21/06/2015,Domingo,NO,NO,NO,NO,SI,Dia del Padre
+22/06/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+23/06/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+24/06/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+25/06/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+26/06/2015,Viernes,NO,NO,NO,NO,SI,Dia del Orgullo LGBTIQ+
+27/06/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+28/06/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+29/06/2015,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+30/06/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+01/07/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+02/07/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+03/07/2015,Viernes,NO,NO,NO,NO,SI,Rock al Parque
+04/07/2015,Sábado,NO,NO,NO,NO,SI,Rock al Parque
+05/07/2015,Domingo,NO,NO,NO,NO,SI,Rock al Parque
+06/07/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+07/07/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+08/07/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+09/07/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+10/07/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+11/07/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+12/07/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+13/07/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+14/07/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+15/07/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+16/07/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+17/07/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+18/07/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+19/07/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+20/07/2015,Lunes,SI,NO,NO,NO,SI,Dia de la Independencia
+21/07/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+22/07/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+23/07/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+24/07/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+25/07/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+26/07/2015,Domingo,NO,NO,NO,NO,SI,MeDia Maratón de Bogota
+27/07/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+28/07/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+29/07/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+30/07/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+31/07/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+01/08/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+02/08/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+03/08/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+04/08/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+05/08/2015,Miercoles,NO,NO,NO,NO,SI,Ciclovía Nocturna
+06/08/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+07/08/2015,Viernes,SI,NO,NO,NO,NO,
+08/08/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+09/08/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+10/08/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+11/08/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+12/08/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+13/08/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+14/08/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+15/08/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+16/08/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+17/08/2015,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+18/08/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+19/08/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+20/08/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+21/08/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+22/08/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+23/08/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+24/08/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+25/08/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+26/08/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+27/08/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+28/08/2015,Viernes,NO,NO,NO,NO,SI,Opera al Parque
+29/08/2015,Sábado,NO,NO,NO,NO,SI,Opera al Parque
+30/08/2015,Domingo,NO,NO,NO,NO,SI,Opera al Parque
+31/08/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+01/09/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+02/09/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+03/09/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+04/09/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+05/09/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+06/09/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+07/09/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+08/09/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+09/09/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+10/09/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+11/09/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+12/09/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+13/09/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+14/09/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+15/09/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+16/09/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+17/09/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+18/09/2015,Viernes,NO,NO,NO,NO,SI,Jazz al Parque
+19/09/2015,Sábado,NO,NO,NO,NO,SI,Dia del Amor y la Amistad
+20/09/2015,Domingo,NO,NO,NO,NO,SI,Jazz al Parque
+21/09/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+22/09/2015,Martes,NO,SI,NO,NO,NO,Sin_Registro
+23/09/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+24/09/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+25/09/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+26/09/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+27/09/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+28/09/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+29/09/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+30/09/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+01/10/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+02/10/2015,Viernes,NO,NO,NO,NO,SI,Bogota Beer Festival
+03/10/2015,Sábado,NO,NO,NO,NO,SI,Bogota Beer Festival
+04/10/2015,Domingo,NO,NO,NO,NO,SI,Bogota Beer Festival
+05/10/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+06/10/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+07/10/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+08/10/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+09/10/2015,Viernes,NO,NO,NO,NO,SI,Colombia al Parque
+10/10/2015,Sábado,NO,NO,NO,NO,SI,Colombia al Parque
+11/10/2015,Domingo,NO,NO,NO,NO,SI,Colombia al Parque
+12/10/2015,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+13/10/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+14/10/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+15/10/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+16/10/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+17/10/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+18/10/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+19/10/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+20/10/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+21/10/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+22/10/2015,Jueves,NO,NO,NO,NO,SI,Festival de Cine
+23/10/2015,Viernes,NO,NO,NO,NO,SI,Festival de Cine
+24/10/2015,Sábado,NO,NO,NO,NO,SI,Festival de Cine
+25/10/2015,Domingo,NO,NO,NO,NO,SI,Festival de Cine
+26/10/2015,Lunes,NO,NO,NO,NO,SI,Festival de Cine
+27/10/2015,Martes,NO,NO,NO,NO,SI,Festival de Cine
+28/10/2015,Miercoles,NO,NO,NO,NO,SI,Festival de Cine
+29/10/2015,Jueves,NO,NO,NO,NO,SI,Festival de Cine
+30/10/2015,Viernes,NO,NO,NO,NO,SI,Festival de Cine
+31/10/2015,Sábado,NO,NO,NO,NO,SI,Halloween
+01/11/2015,Domingo,NO,NO,NO,NO,SI,Dia de Todos los Santos
+02/11/2015,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+03/11/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+04/11/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+05/11/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+06/11/2015,Viernes,NO,NO,NO,NO,SI,Hip Hop al Parque
+07/11/2015,Sábado,NO,NO,NO,NO,SI,Hip Hop al Parque
+08/11/2015,Domingo,NO,NO,NO,NO,SI,Hip Hop al Parque
+09/11/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+10/11/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+11/11/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+12/11/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+13/11/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+14/11/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+15/11/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+16/11/2015,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+17/11/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+18/11/2015,Miercoles,NO,NO,NO,NO,SI,Bogota Music Market
+19/11/2015,Jueves,NO,NO,NO,NO,SI,Bogota Music Market
+20/11/2015,Viernes,NO,NO,NO,NO,SI,Bogota Music Market
+21/11/2015,Sábado,NO,NO,NO,NO,SI,Bogota Music Market
+22/11/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+23/11/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+24/11/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+25/11/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+26/11/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+27/11/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+28/11/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+29/11/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+30/11/2015,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+01/12/2015,Martes,NO,NO,NO,NO,NO,Sin_Registro
+02/12/2015,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+03/12/2015,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+04/12/2015,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+05/12/2015,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+06/12/2015,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+07/12/2015,Lunes,NO,NO,NO,NO,SI,Velitas
+08/12/2015,Martes,SI,NO,NO,NO,SI,Alumbrados navideños Bogota
+09/12/2015,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+10/12/2015,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+11/12/2015,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+12/12/2015,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+13/12/2015,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+14/12/2015,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+15/12/2015,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+16/12/2015,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+17/12/2015,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+18/12/2015,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+19/12/2015,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+20/12/2015,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+21/12/2015,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+22/12/2015,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+23/12/2015,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+24/12/2015,Jueves,NO,NO,NO,NO,SI,Nochebuena
+25/12/2015,Viernes,SI,NO,NO,NO,SI,Navidad
+26/12/2015,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+27/12/2015,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+28/12/2015,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+29/12/2015,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+30/12/2015,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+31/12/2015,Jueves,NO,NO,NO,NO,SI,Nochevieja
+01/01/2016,Viernes,SI,NO,NO,NO,SI,Año Nuevo
+02/01/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+03/01/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+04/01/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+05/01/2016,Martes,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+06/01/2016,Miercoles,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+07/01/2016,Jueves,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+08/01/2016,Viernes,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+09/01/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+10/01/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+11/01/2016,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+12/01/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+13/01/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+14/01/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+15/01/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+16/01/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+17/01/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+18/01/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+19/01/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+20/01/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+21/01/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+22/01/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+23/01/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+24/01/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+25/01/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+26/01/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+27/01/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+28/01/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+29/01/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+30/01/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+31/01/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+01/02/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+02/02/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+03/02/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+04/02/2016,Jueves,NO,SI,NO,NO,NO,Sin_Registro
+05/02/2016,Viernes,NO,NO,NO,NO,SI,Ciclovía Nocturna
+06/02/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+07/02/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+08/02/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+09/02/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+10/02/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+11/02/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+12/02/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+13/02/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+14/02/2016,Domingo,NO,NO,NO,NO,SI,Dia de San Valentin
+15/02/2016,Lunes,NO,NO,NO,NO,SI,Bogota Fashion Week
+16/02/2016,Martes,NO,NO,NO,NO,SI,Bogota Fashion Week
+17/02/2016,Miercoles,NO,NO,NO,NO,SI,Bogota Fashion Week
+18/02/2016,Jueves,NO,NO,NO,NO,SI,Bogota Fashion Week
+19/02/2016,Viernes,NO,NO,NO,NO,SI,Bogota Fashion Week
+20/02/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+21/02/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+22/02/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+23/02/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+24/02/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+25/02/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+26/02/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+27/02/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+28/02/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+29/02/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+01/03/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+02/03/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+03/03/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+04/03/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+05/03/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+06/03/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+07/03/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+08/03/2016,Martes,NO,NO,NO,NO,SI,Dia Internacional de la Mujer
+09/03/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+10/03/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+11/03/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+12/03/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+13/03/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+14/03/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+15/03/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+16/03/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+17/03/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+18/03/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+19/03/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+20/03/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+21/03/2016,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+22/03/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+23/03/2016,Miercoles,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+24/03/2016,Jueves,SI,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+25/03/2016,Viernes,SI,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+26/03/2016,Sábado,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+27/03/2016,Domingo,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+28/03/2016,Lunes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+29/03/2016,Martes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+30/03/2016,Miercoles,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+31/03/2016,Jueves,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+01/04/2016,Viernes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+02/04/2016,Sábado,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+03/04/2016,Domingo,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+04/04/2016,Lunes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+05/04/2016,Martes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+06/04/2016,Miercoles,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+07/04/2016,Jueves,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+08/04/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+09/04/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+10/04/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+11/04/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+12/04/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+13/04/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+14/04/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+15/04/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+16/04/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+17/04/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+18/04/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+19/04/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+20/04/2016,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+21/04/2016,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+22/04/2016,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+23/04/2016,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+24/04/2016,Domingo,NO,NO,NO,NO,SI,Feria del Libro
+25/04/2016,Lunes,NO,NO,NO,NO,SI,Feria del Libro
+26/04/2016,Martes,NO,NO,NO,NO,SI,Feria del Libro
+27/04/2016,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+28/04/2016,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+29/04/2016,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+30/04/2016,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+01/05/2016,Domingo,SI,NO,NO,NO,SI,Feria del Libro
+02/05/2016,Lunes,NO,NO,NO,NO,SI,Feria del Libro
+03/05/2016,Martes,NO,NO,NO,NO,SI,Feria del Libro
+04/05/2016,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+05/05/2016,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+06/05/2016,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+07/05/2016,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+08/05/2016,Domingo,NO,NO,NO,NO,SI,Dia de la Madre
+09/05/2016,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+10/05/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+11/05/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+12/05/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+13/05/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+14/05/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+15/05/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+16/05/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+17/05/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+18/05/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+19/05/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+20/05/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+21/05/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+22/05/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+23/05/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+24/05/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+25/05/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+26/05/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+27/05/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+28/05/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+29/05/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+30/05/2016,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+31/05/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+01/06/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+02/06/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+03/06/2016,Viernes,NO,NO,NO,NO,SI,Festival Alimentarte
+04/06/2016,Sábado,NO,NO,NO,NO,SI,Festival Alimentarte
+05/06/2016,Domingo,NO,NO,NO,NO,SI,Dia del Medio Ambiente
+06/06/2016,Lunes,SI,NO,NO,NO,SI,Festival Alimentarte
+07/06/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+08/06/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+09/06/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+10/06/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+11/06/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+12/06/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+13/06/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+14/06/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+15/06/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+16/06/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+17/06/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+18/06/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+19/06/2016,Domingo,NO,NO,NO,NO,SI,Dia del Padre
+20/06/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+21/06/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+22/06/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+23/06/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+24/06/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+25/06/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+26/06/2016,Domingo,NO,NO,NO,NO,SI,Dia del Orgullo LGBTIQ+
+27/06/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+28/06/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+29/06/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+30/06/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+01/07/2016,Viernes,NO,NO,NO,NO,SI,Rock al Parque
+02/07/2016,Sábado,NO,NO,NO,NO,SI,Rock al Parque
+03/07/2016,Domingo,NO,NO,NO,NO,SI,Rock al Parque
+04/07/2016,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+05/07/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+06/07/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+07/07/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+08/07/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+09/07/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+10/07/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+11/07/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+12/07/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+13/07/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+14/07/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+15/07/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+16/07/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+17/07/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+18/07/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+19/07/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+20/07/2016,Miercoles,SI,NO,NO,NO,SI,Dia de la Independencia
+21/07/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+22/07/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+23/07/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+24/07/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+25/07/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+26/07/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+27/07/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+28/07/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+29/07/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+30/07/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+31/07/2016,Domingo,NO,NO,NO,NO,SI,MeDia Maratón de Bogota
+01/08/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+02/08/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+03/08/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+04/08/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+05/08/2016,Viernes,NO,NO,NO,NO,SI,Ciclovía Nocturna
+06/08/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+07/08/2016,Domingo,SI,NO,NO,NO,NO,
+08/08/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+09/08/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+10/08/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+11/08/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+12/08/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+13/08/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+14/08/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+15/08/2016,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+16/08/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+17/08/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+18/08/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+19/08/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+20/08/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+21/08/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+22/08/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+23/08/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+24/08/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+25/08/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+26/08/2016,Viernes,NO,NO,NO,NO,SI,Opera al Parque
+27/08/2016,Sábado,NO,NO,NO,NO,SI,Opera al Parque
+28/08/2016,Domingo,NO,NO,NO,NO,SI,Opera al Parque
+29/08/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+30/08/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+31/08/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+01/09/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+02/09/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+03/09/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+04/09/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+05/09/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+06/09/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+07/09/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+08/09/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+09/09/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+10/09/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+11/09/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+12/09/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+13/09/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+14/09/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+15/09/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+16/09/2016,Viernes,NO,NO,NO,NO,SI,Jazz al Parque
+17/09/2016,Sábado,NO,NO,NO,NO,SI,Dia del Amor y la Amistad
+18/09/2016,Domingo,NO,NO,NO,NO,SI,Jazz al Parque
+19/09/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+20/09/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+21/09/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+22/09/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+23/09/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+24/09/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+25/09/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+26/09/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+27/09/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+28/09/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+29/09/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+30/09/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+01/10/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+02/10/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+03/10/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+04/10/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+05/10/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+06/10/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+07/10/2016,Viernes,NO,NO,NO,NO,SI,Bogota Beer Festival
+08/10/2016,Sábado,NO,NO,NO,NO,SI,Bogota Beer Festival
+09/10/2016,Domingo,NO,NO,NO,NO,SI,Bogota Beer Festival
+10/10/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+11/10/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+12/10/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+13/10/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+14/10/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+15/10/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+16/10/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+17/10/2016,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+18/10/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+19/10/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+20/10/2016,Jueves,NO,NO,NO,NO,SI,Festival de Cine
+21/10/2016,Viernes,NO,NO,NO,NO,SI,Festival de Cine
+22/10/2016,Sábado,NO,NO,NO,NO,SI,Festival de Cine
+23/10/2016,Domingo,NO,NO,NO,NO,SI,Festival de Cine
+24/10/2016,Lunes,NO,NO,NO,NO,SI,Festival de Cine
+25/10/2016,Martes,NO,NO,NO,NO,SI,Festival de Cine
+26/10/2016,Miercoles,NO,NO,NO,NO,SI,Festival de Cine
+27/10/2016,Jueves,NO,NO,NO,NO,SI,Festival de Cine
+28/10/2016,Viernes,NO,NO,NO,NO,SI,Festival de Cine
+29/10/2016,Sábado,NO,NO,NO,NO,SI,Festival de Cine
+30/10/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+31/10/2016,Lunes,NO,NO,NO,NO,SI,Halloween
+01/11/2016,Martes,NO,NO,NO,NO,SI,Dia de Todos los Santos
+02/11/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+03/11/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+04/11/2016,Viernes,NO,NO,NO,NO,SI,Hip Hop al Parque
+05/11/2016,Sábado,NO,NO,NO,NO,SI,Hip Hop al Parque
+06/11/2016,Domingo,NO,NO,NO,NO,SI,Hip Hop al Parque
+07/11/2016,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+08/11/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+09/11/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+10/11/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+11/11/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+12/11/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+13/11/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+14/11/2016,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+15/11/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+16/11/2016,Miercoles,NO,NO,NO,NO,SI,Bogota Music Market
+17/11/2016,Jueves,NO,NO,NO,NO,SI,Bogota Music Market
+18/11/2016,Viernes,NO,NO,NO,NO,SI,Bogota Music Market
+19/11/2016,Sábado,NO,NO,NO,NO,SI,Bogota Music Market
+20/11/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+21/11/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+22/11/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+23/11/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+24/11/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+25/11/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+26/11/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+27/11/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+28/11/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+29/11/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+30/11/2016,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+01/12/2016,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+02/12/2016,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+03/12/2016,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+04/12/2016,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+05/12/2016,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+06/12/2016,Martes,NO,NO,NO,NO,NO,Sin_Registro
+07/12/2016,Miercoles,NO,NO,NO,NO,SI,Velitas
+08/12/2016,Jueves,SI,NO,NO,NO,SI,Alumbrados navideños Bogota
+09/12/2016,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+10/12/2016,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+11/12/2016,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+12/12/2016,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+13/12/2016,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+14/12/2016,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+15/12/2016,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+16/12/2016,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+17/12/2016,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+18/12/2016,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+19/12/2016,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+20/12/2016,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+21/12/2016,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+22/12/2016,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+23/12/2016,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+24/12/2016,Sábado,NO,NO,NO,NO,SI,Nochebuena
+25/12/2016,Domingo,SI,NO,NO,NO,SI,Navidad
+26/12/2016,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+27/12/2016,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+28/12/2016,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+29/12/2016,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+30/12/2016,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+31/12/2016,Sábado,NO,NO,NO,NO,SI,Nochevieja
+01/01/2017,Domingo,SI,NO,NO,NO,SI,Año Nuevo
+02/01/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+03/01/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+04/01/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+05/01/2017,Jueves,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+06/01/2017,Viernes,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+07/01/2017,Sábado,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+08/01/2017,Domingo,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+09/01/2017,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+10/01/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+11/01/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+12/01/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+13/01/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+14/01/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+15/01/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+16/01/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+17/01/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+18/01/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+19/01/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+20/01/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+21/01/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+22/01/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+23/01/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+24/01/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+25/01/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+26/01/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+27/01/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+28/01/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+29/01/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+30/01/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+31/01/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+01/02/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+02/02/2017,Jueves,NO,SI,NO,NO,NO,Sin_Registro
+03/02/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+04/02/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+05/02/2017,Domingo,NO,NO,NO,NO,SI,Ciclovía Nocturna
+06/02/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+07/02/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+08/02/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+09/02/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+10/02/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+11/02/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+12/02/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+13/02/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+14/02/2017,Martes,NO,NO,NO,NO,SI,Dia de San Valentin
+15/02/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+16/02/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+17/02/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+18/02/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+19/02/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+20/02/2017,Lunes,NO,NO,NO,NO,SI,Bogota Fashion Week
+21/02/2017,Martes,NO,NO,NO,NO,SI,Bogota Fashion Week
+22/02/2017,Miercoles,NO,NO,NO,NO,SI,Bogota Fashion Week
+23/02/2017,Jueves,NO,NO,NO,NO,SI,Bogota Fashion Week
+24/02/2017,Viernes,NO,NO,NO,NO,SI,Bogota Fashion Week
+25/02/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+26/02/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+27/02/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+28/02/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+01/03/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+02/03/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+03/03/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+04/03/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+05/03/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+06/03/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+07/03/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+08/03/2017,Miercoles,NO,NO,NO,NO,SI,Dia Internacional de la Mujer
+09/03/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+10/03/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+11/03/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+12/03/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+13/03/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+14/03/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+15/03/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+16/03/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+17/03/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+18/03/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+19/03/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+20/03/2017,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+21/03/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+22/03/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+23/03/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+24/03/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+25/03/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+26/03/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+27/03/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+28/03/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+29/03/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+30/03/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+31/03/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+01/04/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+02/04/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+03/04/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+04/04/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+05/04/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+06/04/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+07/04/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+08/04/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+09/04/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+10/04/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+11/04/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+12/04/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+13/04/2017,Jueves,SI,NO,NO,NO,NO,Sin_Registro
+14/04/2017,Viernes,SI,NO,NO,NO,NO,Sin_Registro
+15/04/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+16/04/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+17/04/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+18/04/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+19/04/2017,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+20/04/2017,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+21/04/2017,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+22/04/2017,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+23/04/2017,Domingo,NO,NO,NO,NO,SI,Feria del Libro
+24/04/2017,Lunes,NO,NO,NO,NO,SI,Feria del Libro
+25/04/2017,Martes,NO,NO,NO,NO,SI,Feria del Libro
+26/04/2017,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+27/04/2017,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+28/04/2017,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+29/04/2017,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+30/04/2017,Domingo,NO,NO,NO,NO,SI,Feria del Libro
+01/05/2017,Lunes,SI,NO,NO,NO,SI,Feria del Libro
+02/05/2017,Martes,NO,NO,NO,NO,SI,Feria del Libro
+03/05/2017,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+04/05/2017,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+05/05/2017,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+06/05/2017,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+07/05/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+08/05/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+09/05/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+10/05/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+11/05/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+12/05/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+13/05/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+14/05/2017,Domingo,NO,NO,NO,NO,SI,Dia de la Madre
+15/05/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+16/05/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+17/05/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+18/05/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+19/05/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+20/05/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+21/05/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+22/05/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+23/05/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+24/05/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+25/05/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+26/05/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+27/05/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+28/05/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+29/05/2017,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+30/05/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+31/05/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+01/06/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+02/06/2017,Viernes,NO,NO,NO,NO,SI,Festival Alimentarte
+03/06/2017,Sábado,NO,NO,NO,NO,SI,Festival Alimentarte
+04/06/2017,Domingo,NO,NO,NO,NO,SI,Festival Alimentarte
+05/06/2017,Lunes,NO,NO,NO,NO,SI,Dia del Medio Ambiente
+06/06/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+07/06/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+08/06/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+09/06/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+10/06/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+11/06/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+12/06/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+13/06/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+14/06/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+15/06/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+16/06/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+17/06/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+18/06/2017,Domingo,NO,NO,NO,NO,SI,Dia del Padre
+19/06/2017,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+20/06/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+21/06/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+22/06/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+23/06/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+24/06/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+25/06/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+26/06/2017,Lunes,SI,NO,NO,NO,SI,Dia del Orgullo LGBTIQ+
+27/06/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+28/06/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+29/06/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+30/06/2017,Viernes,NO,NO,NO,NO,SI,Rock al Parque
+01/07/2017,Sábado,NO,NO,NO,NO,SI,Rock al Parque
+02/07/2017,Domingo,NO,NO,NO,NO,SI,Rock al Parque
+03/07/2017,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+04/07/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+05/07/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+06/07/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+07/07/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+08/07/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+09/07/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+10/07/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+11/07/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+12/07/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+13/07/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+14/07/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+15/07/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+16/07/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+17/07/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+18/07/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+19/07/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+20/07/2017,Jueves,SI,NO,NO,NO,SI,Dia de la Independencia
+21/07/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+22/07/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+23/07/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+24/07/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+25/07/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+26/07/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+27/07/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+28/07/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+29/07/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+30/07/2017,Domingo,NO,NO,NO,NO,SI,MeDia Maratón de Bogota
+31/07/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+01/08/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+02/08/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+03/08/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+04/08/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+05/08/2017,Sábado,NO,NO,NO,NO,SI,Ciclovía Nocturna
+06/08/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+07/08/2017,Lunes,SI,NO,NO,NO,NO,
+08/08/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+09/08/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+10/08/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+11/08/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+12/08/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+13/08/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+14/08/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+15/08/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+16/08/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+17/08/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+18/08/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+19/08/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+20/08/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+21/08/2017,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+22/08/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+23/08/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+24/08/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+25/08/2017,Viernes,NO,NO,NO,NO,SI,Opera al Parque
+26/08/2017,Sábado,NO,NO,NO,NO,SI,Opera al Parque
+27/08/2017,Domingo,NO,NO,NO,NO,SI,Opera al Parque
+28/08/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+29/08/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+30/08/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+31/08/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+01/09/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+02/09/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+03/09/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+04/09/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+05/09/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+06/09/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+07/09/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+08/09/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+09/09/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+10/09/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+11/09/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+12/09/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+13/09/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+14/09/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+15/09/2017,Viernes,NO,NO,NO,NO,SI,Jazz al Parque
+16/09/2017,Sábado,NO,NO,NO,NO,SI,Dia del Amor y la Amistad
+17/09/2017,Domingo,NO,NO,NO,NO,SI,Jazz al Parque
+18/09/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+19/09/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+20/09/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+21/09/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+22/09/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+23/09/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+24/09/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+25/09/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+26/09/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+27/09/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+28/09/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+29/09/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+30/09/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+01/10/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+02/10/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+03/10/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+04/10/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+05/10/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+06/10/2017,Viernes,NO,NO,NO,NO,SI,Bogota Beer Festival
+07/10/2017,Sábado,NO,NO,NO,NO,SI,Bogota Beer Festival
+08/10/2017,Domingo,NO,NO,NO,NO,SI,Bogota Beer Festival
+09/10/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+10/10/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+11/10/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+12/10/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+13/10/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+14/10/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+15/10/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+16/10/2017,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+17/10/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+18/10/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+19/10/2017,Jueves,NO,NO,NO,NO,SI,Festival de Cine
+20/10/2017,Viernes,NO,NO,NO,NO,SI,Festival de Cine
+21/10/2017,Sábado,NO,NO,NO,NO,SI,Festival de Cine
+22/10/2017,Domingo,NO,NO,NO,NO,SI,Festival de Cine
+23/10/2017,Lunes,NO,NO,NO,NO,SI,Festival de Cine
+24/10/2017,Martes,NO,NO,NO,NO,SI,Festival de Cine
+25/10/2017,Miercoles,NO,NO,NO,NO,SI,Festival de Cine
+26/10/2017,Jueves,NO,NO,NO,NO,SI,Festival de Cine
+27/10/2017,Viernes,NO,NO,NO,NO,SI,Festival de Cine
+28/10/2017,Sábado,NO,NO,NO,NO,SI,Festival de Cine
+29/10/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+30/10/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+31/10/2017,Martes,NO,NO,NO,NO,SI,Halloween
+01/11/2017,Miercoles,NO,NO,NO,NO,SI,Dia de Todos los Santos
+02/11/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+03/11/2017,Viernes,NO,NO,NO,NO,SI,Hip Hop al Parque
+04/11/2017,Sábado,NO,NO,NO,NO,SI,Hip Hop al Parque
+05/11/2017,Domingo,NO,NO,NO,NO,SI,Hip Hop al Parque
+06/11/2017,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+07/11/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+08/11/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+09/11/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+10/11/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+11/11/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+12/11/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+13/11/2017,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+14/11/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+15/11/2017,Miercoles,NO,NO,NO,NO,SI,Bogota Music Market
+16/11/2017,Jueves,NO,NO,NO,NO,SI,Bogota Music Market
+17/11/2017,Viernes,NO,NO,NO,NO,SI,Bogota Music Market
+18/11/2017,Sábado,NO,NO,NO,NO,SI,Bogota Music Market
+19/11/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+20/11/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+21/11/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+22/11/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+23/11/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+24/11/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+25/11/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+26/11/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+27/11/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+28/11/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+29/11/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+30/11/2017,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+01/12/2017,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+02/12/2017,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+03/12/2017,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+04/12/2017,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+05/12/2017,Martes,NO,NO,NO,NO,NO,Sin_Registro
+06/12/2017,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+07/12/2017,Jueves,NO,NO,NO,NO,SI,Velitas
+08/12/2017,Viernes,SI,NO,NO,NO,SI,Alumbrados navideños Bogota
+09/12/2017,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+10/12/2017,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+11/12/2017,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+12/12/2017,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+13/12/2017,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+14/12/2017,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+15/12/2017,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+16/12/2017,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+17/12/2017,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+18/12/2017,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+19/12/2017,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+20/12/2017,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+21/12/2017,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+22/12/2017,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+23/12/2017,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+24/12/2017,Domingo,NO,NO,NO,NO,SI,Nochebuena
+25/12/2017,Lunes,SI,NO,NO,NO,SI,Navidad
+26/12/2017,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+27/12/2017,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+28/12/2017,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+29/12/2017,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+30/12/2017,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+31/12/2017,Domingo,NO,NO,NO,NO,SI,Nochevieja
+01/01/2018,Lunes,SI,NO,NO,NO,SI,Año Nuevo
+02/01/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+03/01/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+04/01/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+05/01/2018,Viernes,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+06/01/2018,Sábado,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+07/01/2018,Domingo,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+08/01/2018,Lunes,SI,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+09/01/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+10/01/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+11/01/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+12/01/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+13/01/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+14/01/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+15/01/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+16/01/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+17/01/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+18/01/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+19/01/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+20/01/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+21/01/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+22/01/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+23/01/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+24/01/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+25/01/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+26/01/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+27/01/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+28/01/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+29/01/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+30/01/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+31/01/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+01/02/2018,Jueves,NO,SI,NO,NO,NO,Sin_Registro
+02/02/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+03/02/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+04/02/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+05/02/2018,Lunes,NO,NO,NO,NO,SI,Ciclovía Nocturna
+06/02/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+07/02/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+08/02/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+09/02/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+10/02/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+11/02/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+12/02/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+13/02/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+14/02/2018,Miercoles,NO,NO,NO,NO,SI,Dia de San Valentin
+15/02/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+16/02/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+17/02/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+18/02/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+19/02/2018,Lunes,NO,NO,NO,NO,SI,Bogota Fashion Week
+20/02/2018,Martes,NO,NO,NO,NO,SI,Bogota Fashion Week
+21/02/2018,Miercoles,NO,NO,NO,NO,SI,Bogota Fashion Week
+22/02/2018,Jueves,NO,NO,NO,NO,SI,Bogota Fashion Week
+23/02/2018,Viernes,NO,NO,NO,NO,SI,Bogota Fashion Week
+24/02/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+25/02/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+26/02/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+27/02/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+28/02/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+01/03/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+02/03/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+03/03/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+04/03/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+05/03/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+06/03/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+07/03/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+08/03/2018,Jueves,NO,NO,NO,NO,SI,Dia Internacional de la Mujer
+09/03/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+10/03/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+11/03/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+12/03/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+13/03/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+14/03/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+15/03/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+16/03/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+17/03/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+18/03/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+19/03/2018,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+20/03/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+21/03/2018,Miercoles,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+22/03/2018,Jueves,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+23/03/2018,Viernes,NO,NO,NO,NO,SI,Estereo Picnic
+24/03/2018,Sábado,NO,NO,NO,NO,SI,Estereo Picnic
+25/03/2018,Domingo,NO,NO,NO,NO,SI,Estereo Picnic
+26/03/2018,Lunes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+27/03/2018,Martes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+28/03/2018,Miercoles,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+29/03/2018,Jueves,SI,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+30/03/2018,Viernes,SI,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+31/03/2018,Sábado,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+01/04/2018,Domingo,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+02/04/2018,Lunes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+03/04/2018,Martes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+04/04/2018,Miercoles,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+05/04/2018,Jueves,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+06/04/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+07/04/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+08/04/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+09/04/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+10/04/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+11/04/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+12/04/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+13/04/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+14/04/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+15/04/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+16/04/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+17/04/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+18/04/2018,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+19/04/2018,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+20/04/2018,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+21/04/2018,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+22/04/2018,Domingo,NO,NO,NO,NO,SI,Feria del Libro
+23/04/2018,Lunes,NO,NO,NO,NO,SI,Feria del Libro
+24/04/2018,Martes,NO,NO,NO,NO,SI,Feria del Libro
+25/04/2018,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+26/04/2018,Jueves,NO,NO,NO,NO,SI,Concierto Coldplay
+27/04/2018,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+28/04/2018,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+29/04/2018,Domingo,NO,NO,NO,NO,SI,Feria del Libro
+30/04/2018,Lunes,NO,NO,NO,NO,SI,Feria del Libro
+01/05/2018,Martes,SI,NO,NO,NO,SI,Feria del Libro
+02/05/2018,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+03/05/2018,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+04/05/2018,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+05/05/2018,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+06/05/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+07/05/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+08/05/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+09/05/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+10/05/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+11/05/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+12/05/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+13/05/2018,Domingo,NO,NO,NO,NO,SI,Dia de la Madre
+14/05/2018,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+15/05/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+16/05/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+17/05/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+18/05/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+19/05/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+20/05/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+21/05/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+22/05/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+23/05/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+24/05/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+25/05/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+26/05/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+27/05/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+28/05/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+29/05/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+30/05/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+31/05/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+01/06/2018,Viernes,NO,NO,NO,NO,SI,Festival Alimentarte
+02/06/2018,Sábado,NO,NO,NO,NO,SI,Festival Alimentarte
+03/06/2018,Domingo,NO,NO,NO,NO,SI,Festival Alimentarte
+04/06/2018,Lunes,SI,NO,NO,NO,SI,Festival Alimentarte
+05/06/2018,Martes,NO,NO,NO,NO,SI,Dia del Medio Ambiente
+06/06/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+07/06/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+08/06/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+09/06/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+10/06/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+11/06/2018,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+12/06/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+13/06/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+14/06/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+15/06/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+16/06/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+17/06/2018,Domingo,NO,NO,NO,NO,SI,Dia del Padre
+18/06/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+19/06/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+20/06/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+21/06/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+22/06/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+23/06/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+24/06/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+25/06/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+26/06/2018,Martes,NO,NO,NO,NO,SI,Dia del Orgullo LGBTIQ+
+27/06/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+28/06/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+29/06/2018,Viernes,NO,NO,NO,NO,SI,Rock al Parque
+30/06/2018,Sábado,NO,NO,NO,NO,SI,Rock al Parque
+01/07/2018,Domingo,NO,NO,NO,NO,SI,Rock al Parque
+02/07/2018,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+03/07/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+04/07/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+05/07/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+06/07/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+07/07/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+08/07/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+09/07/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+10/07/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+11/07/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+12/07/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+13/07/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+14/07/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+15/07/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+16/07/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+17/07/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+18/07/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+19/07/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+20/07/2018,Viernes,SI,NO,NO,NO,SI,Dia de la Independencia
+21/07/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+22/07/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+23/07/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+24/07/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+25/07/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+26/07/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+27/07/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+28/07/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+29/07/2018,Domingo,NO,NO,NO,NO,SI,MeDia Maratón de Bogota
+30/07/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+31/07/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+01/08/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+02/08/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+03/08/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+04/08/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+05/08/2018,Domingo,NO,NO,NO,NO,SI,Ciclovía Nocturna
+06/08/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+07/08/2018,Martes,SI,NO,NO,NO,NO,
+08/08/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+09/08/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+10/08/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+11/08/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+12/08/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+13/08/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+14/08/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+15/08/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+16/08/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+17/08/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+18/08/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+19/08/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+20/08/2018,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+21/08/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+22/08/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+23/08/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+24/08/2018,Viernes,NO,NO,NO,NO,SI,Opera al Parque
+25/08/2018,Sábado,NO,NO,NO,NO,SI,Opera al Parque
+26/08/2018,Domingo,NO,NO,NO,NO,SI,Opera al Parque
+27/08/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+28/08/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+29/08/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+30/08/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+31/08/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+01/09/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+02/09/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+03/09/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+04/09/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+05/09/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+06/09/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+07/09/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+08/09/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+09/09/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+10/09/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+11/09/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+12/09/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+13/09/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+14/09/2018,Viernes,NO,NO,NO,NO,SI,Jazz al Parque
+15/09/2018,Sábado,NO,NO,NO,NO,SI,Dia del Amor y la Amistad
+16/09/2018,Domingo,NO,NO,NO,NO,SI,Jazz al Parque
+17/09/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+18/09/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+19/09/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+20/09/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+21/09/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+22/09/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+23/09/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+24/09/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+25/09/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+26/09/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+27/09/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+28/09/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+29/09/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+30/09/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+01/10/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+02/10/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+03/10/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+04/10/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+05/10/2018,Viernes,NO,NO,NO,NO,SI,Bogota Beer Festival
+06/10/2018,Sábado,NO,NO,NO,NO,SI,Bogota Beer Festival
+07/10/2018,Domingo,NO,NO,NO,NO,SI,Bogota Beer Festival
+08/10/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+09/10/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+10/10/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+11/10/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+12/10/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+13/10/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+14/10/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+15/10/2018,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+16/10/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+17/10/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+18/10/2018,Jueves,NO,NO,NO,NO,SI,Festival de Cine
+19/10/2018,Viernes,NO,NO,NO,NO,SI,Festival de Cine
+20/10/2018,Sábado,NO,NO,NO,NO,SI,Festival de Cine
+21/10/2018,Domingo,NO,NO,NO,NO,SI,Festival de Cine
+22/10/2018,Lunes,NO,NO,NO,NO,SI,Festival de Cine
+23/10/2018,Martes,NO,NO,NO,NO,SI,Festival de Cine
+24/10/2018,Miercoles,NO,NO,NO,NO,SI,Festival de Cine
+25/10/2018,Jueves,NO,NO,NO,NO,SI,Festival de Cine
+26/10/2018,Viernes,NO,NO,NO,NO,SI,Festival de Cine
+27/10/2018,Sábado,NO,NO,NO,NO,SI,Festival de Cine
+28/10/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+29/10/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+30/10/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+31/10/2018,Miercoles,NO,NO,NO,NO,SI,Halloween
+01/11/2018,Jueves,NO,NO,NO,NO,SI,Dia de Todos los Santos
+02/11/2018,Viernes,NO,NO,NO,NO,SI,Hip Hop al Parque
+03/11/2018,Sábado,NO,NO,NO,NO,SI,Concierto Shakira
+04/11/2018,Domingo,NO,NO,NO,NO,SI,Hip Hop al Parque
+05/11/2018,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+06/11/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+07/11/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+08/11/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+09/11/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+10/11/2018,Sábado,NO,NO,NO,NO,SI,Concierto Maluma
+11/11/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+12/11/2018,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+13/11/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+14/11/2018,Miercoles,NO,NO,NO,NO,SI,Bogota Music Market
+15/11/2018,Jueves,NO,NO,NO,NO,SI,Bogota Music Market
+16/11/2018,Viernes,NO,NO,NO,NO,SI,Bogota Music Market
+17/11/2018,Sábado,NO,NO,NO,NO,SI,Bogota Music Market
+18/11/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+19/11/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+20/11/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+21/11/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+22/11/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+23/11/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+24/11/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+25/11/2018,Domingo,NO,NO,NO,NO,SI,Concierto Maluma
+26/11/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+27/11/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+28/11/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+29/11/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+30/11/2018,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+01/12/2018,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+02/12/2018,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+03/12/2018,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+04/12/2018,Martes,NO,NO,NO,NO,NO,Sin_Registro
+05/12/2018,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+06/12/2018,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+07/12/2018,Viernes,NO,NO,NO,NO,SI,Velitas
+08/12/2018,Sábado,SI,NO,NO,NO,SI,Alumbrados navideños Bogota
+09/12/2018,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+10/12/2018,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+11/12/2018,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+12/12/2018,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+13/12/2018,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+14/12/2018,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+15/12/2018,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+16/12/2018,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+17/12/2018,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+18/12/2018,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+19/12/2018,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+20/12/2018,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+21/12/2018,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+22/12/2018,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+23/12/2018,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+24/12/2018,Lunes,NO,NO,NO,NO,SI,Nochebuena
+25/12/2018,Martes,SI,NO,NO,NO,SI,Navidad
+26/12/2018,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+27/12/2018,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+28/12/2018,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+29/12/2018,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+30/12/2018,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+31/12/2018,Lunes,NO,NO,NO,NO,SI,Nochevieja
+01/01/2019,Martes,SI,NO,NO,NO,SI,Año Nuevo
+02/01/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+03/01/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+04/01/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+05/01/2019,Sábado,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+06/01/2019,Domingo,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+07/01/2019,Lunes,SI,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+08/01/2019,Martes,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+09/01/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+10/01/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+11/01/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+12/01/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+13/01/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+14/01/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+15/01/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+16/01/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+17/01/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+18/01/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+19/01/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+20/01/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+21/01/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+22/01/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+23/01/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+24/01/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+25/01/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+26/01/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+27/01/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+28/01/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+29/01/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+30/01/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+31/01/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+01/02/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+02/02/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+03/02/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+04/02/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+05/02/2019,Martes,NO,NO,NO,NO,SI,Ciclovía Nocturna
+06/02/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+07/02/2019,Jueves,NO,SI,NO,NO,NO,Sin_Registro
+08/02/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+09/02/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+10/02/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+11/02/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+12/02/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+13/02/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+14/02/2019,Jueves,NO,NO,NO,NO,SI,Dia de San Valentin
+15/02/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+16/02/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+17/02/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+18/02/2019,Lunes,NO,NO,NO,NO,SI,Bogota Fashion Week
+19/02/2019,Martes,NO,NO,NO,NO,SI,Bogota Fashion Week
+20/02/2019,Miercoles,NO,NO,NO,NO,SI,Bogota Fashion Week
+21/02/2019,Jueves,NO,NO,NO,NO,SI,Bogota Fashion Week
+22/02/2019,Viernes,NO,NO,NO,NO,SI,Bogota Fashion Week
+23/02/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+24/02/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+25/02/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+26/02/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+27/02/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+28/02/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+01/03/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+02/03/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+03/03/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+04/03/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+05/03/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+06/03/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+07/03/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+08/03/2019,Viernes,NO,NO,NO,NO,SI,Dia Internacional de la Mujer
+09/03/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+10/03/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+11/03/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+12/03/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+13/03/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+14/03/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+15/03/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+16/03/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+17/03/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+18/03/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+19/03/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+20/03/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+21/03/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+22/03/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+23/03/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+24/03/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+25/03/2019,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+26/03/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+27/03/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+28/03/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+29/03/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+30/03/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+31/03/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+01/04/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+02/04/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+03/04/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+04/04/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+05/04/2019,Viernes,NO,NO,NO,NO,SI,Estereo Picnic
+06/04/2019,Sábado,NO,NO,NO,NO,SI,Estereo Picnic
+07/04/2019,Domingo,NO,NO,NO,NO,SI,Estereo Picnic
+08/04/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+09/04/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+10/04/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+11/04/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+12/04/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+13/04/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+14/04/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+15/04/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+16/04/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+17/04/2019,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+18/04/2019,Jueves,SI,NO,NO,NO,SI,Feria del Libro
+19/04/2019,Viernes,SI,NO,NO,NO,SI,Feria del Libro
+20/04/2019,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+21/04/2019,Domingo,NO,NO,NO,NO,SI,Feria del Libro
+22/04/2019,Lunes,NO,NO,NO,NO,SI,Feria del Libro
+23/04/2019,Martes,NO,NO,NO,NO,SI,Feria del Libro
+24/04/2019,Miercoles,NO,NO,NO,NO,SI,Feria del Libro
+25/04/2019,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+26/04/2019,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+27/04/2019,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+28/04/2019,Domingo,NO,NO,NO,NO,SI,Feria del Libro
+29/04/2019,Lunes,NO,NO,NO,NO,SI,Feria del Libro
+30/04/2019,Martes,NO,NO,NO,NO,SI,Feria del Libro
+01/05/2019,Miercoles,SI,NO,NO,NO,SI,Feria del Libro
+02/05/2019,Jueves,NO,NO,NO,NO,SI,Feria del Libro
+03/05/2019,Viernes,NO,NO,NO,NO,SI,Feria del Libro
+04/05/2019,Sábado,NO,NO,NO,NO,SI,Feria del Libro
+05/05/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+06/05/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+07/05/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+08/05/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+09/05/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+10/05/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+11/05/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+12/05/2019,Domingo,NO,NO,NO,NO,SI,Dia de la Madre
+13/05/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+14/05/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+15/05/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+16/05/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+17/05/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+18/05/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+19/05/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+20/05/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+21/05/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+22/05/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+23/05/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+24/05/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+25/05/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+26/05/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+27/05/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+28/05/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+29/05/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+30/05/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+31/05/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+01/06/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+02/06/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+03/06/2019,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+04/06/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+05/06/2019,Miercoles,NO,NO,NO,NO,SI,Dia del Medio Ambiente
+06/06/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+07/06/2019,Viernes,NO,NO,NO,NO,SI,Festival Alimentarte
+08/06/2019,Sábado,NO,NO,NO,NO,SI,Festival Alimentarte
+09/06/2019,Domingo,NO,NO,NO,NO,SI,Festival Alimentarte
+10/06/2019,Lunes,NO,NO,NO,NO,SI,Festival Alimentarte
+11/06/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+12/06/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+13/06/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+14/06/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+15/06/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+16/06/2019,Domingo,NO,NO,NO,NO,SI,Dia del Padre
+17/06/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+18/06/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+19/06/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+20/06/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+21/06/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+22/06/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+23/06/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+24/06/2019,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+25/06/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+26/06/2019,Miercoles,NO,NO,NO,NO,SI,Dia del Orgullo LGBTIQ+
+27/06/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+28/06/2019,Viernes,NO,NO,NO,NO,SI,Rock al Parque
+29/06/2019,Sábado,NO,NO,NO,NO,SI,Rock al Parque
+30/06/2019,Domingo,NO,NO,NO,NO,SI,Rock al Parque
+01/07/2019,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+02/07/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+03/07/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+04/07/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+05/07/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+06/07/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+07/07/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+08/07/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+09/07/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+10/07/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+11/07/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+12/07/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+13/07/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+14/07/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+15/07/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+16/07/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+17/07/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+18/07/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+19/07/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+20/07/2019,Sábado,SI,NO,NO,NO,SI,Dia de la Independencia
+21/07/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+22/07/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+23/07/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+24/07/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+25/07/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+26/07/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+27/07/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+28/07/2019,Domingo,NO,NO,NO,NO,SI,MeDia Maratón de Bogota
+29/07/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+30/07/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+31/07/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+01/08/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+02/08/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+03/08/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+04/08/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+05/08/2019,Lunes,NO,NO,NO,NO,SI,Ciclovía Nocturna
+06/08/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+07/08/2019,Miercoles,SI,NO,NO,NO,NO,
+08/08/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+09/08/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+10/08/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+11/08/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+12/08/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+13/08/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+14/08/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+15/08/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+16/08/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+17/08/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+18/08/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+19/08/2019,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+20/08/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+21/08/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+22/08/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+23/08/2019,Viernes,NO,NO,NO,NO,SI,Opera al Parque
+24/08/2019,Sábado,NO,NO,NO,NO,SI,Opera al Parque
+25/08/2019,Domingo,NO,NO,NO,NO,SI,Opera al Parque
+26/08/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+27/08/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+28/08/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+29/08/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+30/08/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+31/08/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+01/09/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+02/09/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+03/09/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+04/09/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+05/09/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+06/09/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+07/09/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+08/09/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+09/09/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+10/09/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+11/09/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+12/09/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+13/09/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+14/09/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+15/09/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+16/09/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+17/09/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+18/09/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+19/09/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+20/09/2019,Viernes,NO,NO,NO,NO,SI,Jazz al Parque
+21/09/2019,Sábado,NO,NO,NO,NO,SI,Dia del Amor y la Amistad
+22/09/2019,Domingo,NO,NO,NO,NO,SI,Jazz al Parque
+23/09/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+24/09/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+25/09/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+26/09/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+27/09/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+28/09/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+29/09/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+30/09/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+01/10/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+02/10/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+03/10/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+04/10/2019,Viernes,NO,NO,NO,NO,SI,Bogota Beer Festival
+05/10/2019,Sábado,NO,NO,NO,NO,SI,Bogota Beer Festival
+06/10/2019,Domingo,NO,NO,NO,NO,SI,Bogota Beer Festival
+07/10/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+08/10/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+09/10/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+10/10/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+11/10/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+12/10/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+13/10/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+14/10/2019,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+15/10/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+16/10/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+17/10/2019,Jueves,NO,NO,NO,NO,SI,Festival de Cine
+18/10/2019,Viernes,NO,NO,NO,NO,SI,Festival de Cine
+19/10/2019,Sábado,NO,NO,NO,NO,SI,Festival de Cine
+20/10/2019,Domingo,NO,NO,NO,NO,SI,Festival de Cine
+21/10/2019,Lunes,NO,NO,NO,NO,SI,Festival de Cine
+22/10/2019,Martes,NO,NO,NO,NO,SI,Festival de Cine
+23/10/2019,Miercoles,NO,NO,NO,NO,SI,Festival de Cine
+24/10/2019,Jueves,NO,NO,NO,NO,SI,Festival de Cine
+25/10/2019,Viernes,NO,NO,NO,NO,SI,Festival de Cine
+26/10/2019,Sábado,NO,NO,NO,NO,SI,Festival de Cine
+27/10/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+28/10/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+29/10/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+30/10/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+31/10/2019,Jueves,NO,NO,NO,NO,SI,Halloween
+01/11/2019,Viernes,NO,NO,NO,NO,SI,Hip Hop al Parque
+02/11/2019,Sábado,NO,NO,NO,NO,SI,Hip Hop al Parque
+03/11/2019,Domingo,NO,NO,NO,NO,SI,Hip Hop al Parque
+04/11/2019,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+05/11/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+06/11/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+07/11/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+08/11/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+09/11/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+10/11/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+11/11/2019,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+12/11/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+13/11/2019,Miercoles,NO,NO,NO,NO,SI,Bogota Music Market
+14/11/2019,Jueves,NO,NO,NO,NO,SI,Bogota Music Market
+15/11/2019,Viernes,NO,NO,NO,NO,SI,Bogota Music Market
+16/11/2019,Sábado,NO,NO,NO,NO,SI,Bogota Music Market
+17/11/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+18/11/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+19/11/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+20/11/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+21/11/2019,Jueves,NO,NO,SI,NO,SI,Paro Nacional
+22/11/2019,Viernes,NO,NO,SI,NO,NO,Sin_Registro
+23/11/2019,Sábado,NO,NO,SI,NO,NO,Sin_Registro
+24/11/2019,Domingo,NO,NO,SI,NO,NO,Sin_Registro
+25/11/2019,Lunes,NO,NO,SI,NO,NO,Sin_Registro
+26/11/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+27/11/2019,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+28/11/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+29/11/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+30/11/2019,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+01/12/2019,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+02/12/2019,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+03/12/2019,Martes,NO,NO,NO,NO,NO,Sin_Registro
+04/12/2019,Miercoles,NO,NO,SI,NO,SI,Cacerolazo nacional
+05/12/2019,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+06/12/2019,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+07/12/2019,Sábado,NO,NO,NO,NO,SI,Velitas
+08/12/2019,Domingo,SI,NO,NO,NO,SI,Alumbrados navideños Bogota
+09/12/2019,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+10/12/2019,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+11/12/2019,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+12/12/2019,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+13/12/2019,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+14/12/2019,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+15/12/2019,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+16/12/2019,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+17/12/2019,Martes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+18/12/2019,Miercoles,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+19/12/2019,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+20/12/2019,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+21/12/2019,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+22/12/2019,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+23/12/2019,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+24/12/2019,Martes,NO,NO,NO,NO,SI,Nochebuena
+25/12/2019,Miercoles,SI,NO,NO,NO,SI,Navidad
+26/12/2019,Jueves,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+27/12/2019,Viernes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+28/12/2019,Sábado,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+29/12/2019,Domingo,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+30/12/2019,Lunes,NO,NO,NO,NO,SI,Alumbrados navideños Bogota
+31/12/2019,Martes,NO,NO,NO,NO,SI,Nochevieja
+01/01/2020,Miercoles,SI,NO,NO,NO,SI,Año Nuevo
+02/01/2020,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+03/01/2020,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+04/01/2020,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+05/01/2020,Domingo,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+06/01/2020,Lunes,SI,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+07/01/2020,Martes,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+08/01/2020,Miercoles,NO,NO,NO,NO,SI,Fiesta de Reyes - Carnaval de Bogota
+09/01/2020,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+10/01/2020,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+11/01/2020,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+12/01/2020,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+13/01/2020,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+14/01/2020,Martes,NO,NO,NO,NO,NO,Sin_Registro
+15/01/2020,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+16/01/2020,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+17/01/2020,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+18/01/2020,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+19/01/2020,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+20/01/2020,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+21/01/2020,Martes,NO,NO,SI,NO,NO,Sin_Registro
+22/01/2020,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+23/01/2020,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+24/01/2020,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+25/01/2020,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+26/01/2020,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+27/01/2020,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+28/01/2020,Martes,NO,NO,NO,NO,NO,Sin_Registro
+29/01/2020,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+30/01/2020,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+31/01/2020,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+01/02/2020,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+02/02/2020,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+03/02/2020,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+04/02/2020,Martes,NO,NO,NO,NO,NO,Sin_Registro
+05/02/2020,Miercoles,NO,NO,NO,NO,SI,Ciclovía Nocturna
+06/02/2020,Jueves,NO,SI,NO,NO,NO,Sin_Registro
+07/02/2020,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+08/02/2020,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+09/02/2020,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+10/02/2020,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+11/02/2020,Martes,NO,NO,NO,NO,NO,Sin_Registro
+12/02/2020,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+13/02/2020,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+14/02/2020,Viernes,NO,NO,NO,NO,SI,Dia de San Valentin
+15/02/2020,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+16/02/2020,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+17/02/2020,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+18/02/2020,Martes,NO,NO,NO,NO,NO,Sin_Registro
+19/02/2020,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+20/02/2020,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+21/02/2020,Viernes,NO,NO,SI,NO,NO,Sin_Registro
+22/02/2020,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+23/02/2020,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+24/02/2020,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+25/02/2020,Martes,NO,NO,NO,NO,NO,Sin_Registro
+26/02/2020,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+27/02/2020,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+28/02/2020,Viernes,NO,NO,NO,NO,NO,Sin_Registro
+29/02/2020,Sábado,NO,NO,NO,NO,NO,Sin_Registro
+01/03/2020,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+02/03/2020,Lunes,NO,NO,NO,NO,NO,Sin_Registro
+03/03/2020,Martes,NO,NO,NO,NO,NO,Sin_Registro
+04/03/2020,Miercoles,NO,NO,NO,NO,NO,Sin_Registro
+05/03/2020,Jueves,NO,NO,NO,NO,NO,Sin_Registro
+06/03/2020,Viernes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+07/03/2020,Sábado,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+08/03/2020,Domingo,NO,NO,NO,NO,SI,Dia Internacional de la Mujer
+09/03/2020,Lunes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+10/03/2020,Martes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+11/03/2020,Miercoles,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+12/03/2020,Jueves,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+13/03/2020,Viernes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+14/03/2020,Sábado,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+15/03/2020,Domingo,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+16/03/2020,Lunes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+17/03/2020,Martes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+18/03/2020,Miercoles,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+19/03/2020,Jueves,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+20/03/2020,Viernes,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+21/03/2020,Sábado,NO,NO,NO,NO,SI,Festival Iberoamericano de Teatro
+22/03/2020,Domingo,NO,NO,NO,NO,NO,Sin_Registro
+23/03/2020,Lunes,SI,NO,NO,NO,NO,Sin_Registro
+24/03/2020,Martes,NO,NO,NO,NO,NO,Sin_Registro
+25/03/2020,Miercoles,NO,NO,NO,SI,SI,Inicio cuarentena nacional obligatoria COVID-19
+26/03/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+27/03/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+28/03/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+29/03/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+30/03/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+31/03/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+01/04/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+02/04/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+03/04/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+04/04/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+05/04/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+06/04/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+07/04/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+08/04/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+09/04/2020,Jueves,SI,NO,NO,SI,NO,Sin_Registro
+10/04/2020,Viernes,SI,NO,NO,SI,NO,Sin_Registro
+11/04/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+12/04/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+13/04/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+14/04/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+15/04/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+16/04/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+17/04/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+18/04/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+19/04/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+20/04/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+21/04/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+22/04/2020,Miercoles,NO,NO,NO,SI,SI,Feria del Libro
+23/04/2020,Jueves,NO,NO,NO,SI,SI,Feria del Libro
+24/04/2020,Viernes,NO,NO,NO,SI,SI,Feria del Libro
+25/04/2020,Sábado,NO,NO,NO,SI,SI,Feria del Libro
+26/04/2020,Domingo,NO,NO,NO,SI,SI,Feria del Libro
+27/04/2020,Lunes,NO,NO,NO,SI,SI,Feria del Libro
+28/04/2020,Martes,NO,NO,NO,SI,SI,Feria del Libro
+29/04/2020,Miercoles,NO,NO,NO,SI,SI,Feria del Libro
+30/04/2020,Jueves,NO,NO,NO,SI,SI,Feria del Libro
+01/05/2020,Viernes,SI,NO,NO,SI,SI,Feria del Libro
+02/05/2020,Sábado,NO,NO,NO,SI,SI,Feria del Libro
+03/05/2020,Domingo,NO,NO,NO,SI,SI,Feria del Libro
+04/05/2020,Lunes,NO,NO,NO,SI,SI,Feria del Libro
+05/05/2020,Martes,NO,NO,NO,SI,SI,Feria del Libro
+06/05/2020,Miercoles,NO,NO,NO,SI,SI,Feria del Libro
+07/05/2020,Jueves,NO,NO,NO,SI,SI,Feria del Libro
+08/05/2020,Viernes,NO,NO,NO,SI,SI,Feria del Libro
+09/05/2020,Sábado,NO,NO,NO,SI,SI,Feria del Libro
+10/05/2020,Domingo,NO,NO,NO,SI,SI,Dia de la Madre
+11/05/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+12/05/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+13/05/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+14/05/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+15/05/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+16/05/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+17/05/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+18/05/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+19/05/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+20/05/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+21/05/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+22/05/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+23/05/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+24/05/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+25/05/2020,Lunes,SI,NO,NO,SI,NO,Sin_Registro
+26/05/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+27/05/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+28/05/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+29/05/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+30/05/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+31/05/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+01/06/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+02/06/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+03/06/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+04/06/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+05/06/2020,Viernes,NO,NO,NO,SI,SI,Dia del Medio Ambiente
+06/06/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+07/06/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+08/06/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+09/06/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+10/06/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+11/06/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+12/06/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+13/06/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+14/06/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+15/06/2020,Lunes,SI,NO,NO,SI,NO,Sin_Registro
+16/06/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+17/06/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+18/06/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+19/06/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+20/06/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+21/06/2020,Domingo,NO,NO,NO,SI,SI,Dia del Padre
+22/06/2020,Lunes,SI,NO,NO,SI,NO,Sin_Registro
+23/06/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+24/06/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+25/06/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+26/06/2020,Viernes,NO,NO,NO,SI,SI,Dia del Orgullo LGBTIQ+
+27/06/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+28/06/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+29/06/2020,Lunes,SI,NO,NO,SI,NO,Sin_Registro
+30/06/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+01/07/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+02/07/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+03/07/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+04/07/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+05/07/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+06/07/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+07/07/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+08/07/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+09/07/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+10/07/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+11/07/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+12/07/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+13/07/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+14/07/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+15/07/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+16/07/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+17/07/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+18/07/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+19/07/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+20/07/2020,Lunes,SI,NO,NO,SI,SI,Dia de la Independencia
+21/07/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+22/07/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+23/07/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+24/07/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+25/07/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+26/07/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+27/07/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+28/07/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+29/07/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+30/07/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+31/07/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+01/08/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+02/08/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+03/08/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+04/08/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+05/08/2020,Miercoles,NO,NO,NO,SI,SI,Ciclovía Nocturna
+06/08/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+07/08/2020,Viernes,SI,NO,NO,SI,NO,
+08/08/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+09/08/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+10/08/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+11/08/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+12/08/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+13/08/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+14/08/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+15/08/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+16/08/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+17/08/2020,Lunes,SI,NO,NO,SI,NO,Sin_Registro
+18/08/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+19/08/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+20/08/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+21/08/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+22/08/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+23/08/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+24/08/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+25/08/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+26/08/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+27/08/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+28/08/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+29/08/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+30/08/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+31/08/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+01/09/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+02/09/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+03/09/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+04/09/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+05/09/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+06/09/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+07/09/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+08/09/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+09/09/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+10/09/2020,Jueves,NO,NO,SI,SI,NO,Sin_Registro
+11/09/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+12/09/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+13/09/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+14/09/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+15/09/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+16/09/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+17/09/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+18/09/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+19/09/2020,Sábado,NO,NO,NO,SI,SI,Dia del Amor y la Amistad
+20/09/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+21/09/2020,Lunes,NO,NO,SI,SI,NO,Sin_Registro
+22/09/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+23/09/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+24/09/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+25/09/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+26/09/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+27/09/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+28/09/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+29/09/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+30/09/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+01/10/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+02/10/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+03/10/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+04/10/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+05/10/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+06/10/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+07/10/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+08/10/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+09/10/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+10/10/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+11/10/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+12/10/2020,Lunes,SI,NO,NO,SI,NO,Sin_Registro
+13/10/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+14/10/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+15/10/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+16/10/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+17/10/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+18/10/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+19/10/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+20/10/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+21/10/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+22/10/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+23/10/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+24/10/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+25/10/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+26/10/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+27/10/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+28/10/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+29/10/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+30/10/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+31/10/2020,Sábado,NO,NO,NO,SI,SI,Halloween
+01/11/2020,Domingo,NO,NO,NO,SI,SI,Dia de Todos los Santos
+02/11/2020,Lunes,SI,NO,NO,SI,NO,Sin_Registro
+03/11/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+04/11/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+05/11/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+06/11/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+07/11/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+08/11/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+09/11/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+10/11/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+11/11/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+12/11/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+13/11/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+14/11/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+15/11/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+16/11/2020,Lunes,SI,NO,NO,SI,NO,Sin_Registro
+17/11/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+18/11/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+19/11/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+20/11/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+21/11/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+22/11/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+23/11/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+24/11/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+25/11/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+26/11/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+27/11/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+28/11/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+29/11/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+30/11/2020,Lunes,NO,NO,NO,SI,NO,Sin_Registro
+01/12/2020,Martes,NO,NO,NO,SI,NO,Sin_Registro
+02/12/2020,Miercoles,NO,NO,NO,SI,NO,Sin_Registro
+03/12/2020,Jueves,NO,NO,NO,SI,NO,Sin_Registro
+04/12/2020,Viernes,NO,NO,NO,SI,NO,Sin_Registro
+05/12/2020,Sábado,NO,NO,NO,SI,NO,Sin_Registro
+06/12/2020,Domingo,NO,NO,NO,SI,NO,Sin_Registro
+07/12/2020,Lunes,NO,NO,NO,SI,SI,Velitas
+08/12/2020,Martes,SI,NO,NO,SI,SI,Alumbrados navideños Bogota
+09/12/2020,Miercoles,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+10/12/2020,Jueves,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+11/12/2020,Viernes,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+12/12/2020,Sábado,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+13/12/2020,Domingo,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+14/12/2020,Lunes,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+15/12/2020,Martes,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+16/12/2020,Miercoles,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+17/12/2020,Jueves,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+18/12/2020,Viernes,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+19/12/2020,Sábado,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+20/12/2020,Domingo,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+21/12/2020,Lunes,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+22/12/2020,Martes,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+23/12/2020,Miercoles,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+24/12/2020,Jueves,NO,NO,NO,SI,SI,Nochebuena
+25/12/2020,Viernes,SI,NO,NO,SI,SI,Navidad
+26/12/2020,Sábado,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+27/12/2020,Domingo,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+28/12/2020,Lunes,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+29/12/2020,Martes,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+30/12/2020,Miercoles,NO,NO,NO,SI,SI,Alumbrados navideños Bogota
+31/12/2020,Jueves,NO,NO,NO,SI,SI,Nochevieja
